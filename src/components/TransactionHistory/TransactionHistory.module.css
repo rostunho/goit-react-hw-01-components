@@ -57,6 +57,8 @@
 }
 
 td.type {
+  text-transform: capitalize;
+  text-align: start;
   padding: 10px 40px;
 }
 td.amount {
